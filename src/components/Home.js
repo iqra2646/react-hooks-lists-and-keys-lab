@@ -6,6 +6,7 @@ function Home({ color, username, city }) {
       <h1 style={{ color: color }}>
         {username} is a Web Developer from {city}
       </h1>
+      <p>welcome to garissa</p>
     </div>
   );
 }
